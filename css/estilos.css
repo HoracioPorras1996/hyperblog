@@ -50,3 +50,12 @@ body
     background: rgba(255, 255, 255, 0.866);
     padding: 1cm;
 }
+
+#footer
+{
+    align-self: flex-end;
+    background-color: azure;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+}
